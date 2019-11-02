@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##Live Link : https://burger-app-frontend.herokuapp.com/
+## Live Link : https://burger-app-frontend.herokuapp.com/
 
 ## Available Scripts
 
